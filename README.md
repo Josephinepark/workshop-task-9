@@ -2,7 +2,9 @@
 
 # Workshop 9 : Live Video
 
-[Website Link] 
+[Website Link] https://josephinepark.github.io/workshop-task-9/
+
+- see your creepy self covered in a mosaic
 
 ## Task
 [] Make an experimental 'smart mirror' using live video capture.<br>
